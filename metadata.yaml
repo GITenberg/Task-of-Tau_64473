@@ -1,0 +1,23 @@
+_repo: Task-of-Tau_64473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, J. Harvey (John Harvey)
+    alias: Haggard, John Harvey
+    birthdate: 1912
+    deathdate: 2001
+    gutenberg_agent_id: '52829'
+    url: http://www.gutenberg.org/2009/agents/52829
+description: ''
+gutenberg_issued: '2021-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Task of Tau
+url: http://www.gutenberg.org/ebooks/64473
